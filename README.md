@@ -21,6 +21,15 @@
 ## Lenguajes y herramientas
 ![Lenguajes y herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=nombredeusuario&layout=compact&theme=radical)
 
+Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
+
+- JavaScript
+- Node.js
+- .NET
+- C#
+- Python
+- React
+
 ## Conecta conmigo
 ¡No dudes en conectarte conmigo a través de mis redes sociales!
 
