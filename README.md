@@ -1,16 +1,31 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Camilocsr/Camilocsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy [tu nombre], un apasionado por [tus intereses]. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
 
-Here are some ideas to get you started:
+## Acerca de mí
+- 🔭 Actualmente estoy trabajando en [proyecto o área específica].
+- 🌱 Actualmente estoy aprendiendo [tecnología o tema específico].
+- 👯 Estoy buscando colaborar en [proyectos o iniciativas].
+- 💬 Pregúntame sobre [áreas de experiencia o temas que te interesen].
+- 📫 Puedes contactarme en [tu correo electrónico o enlace a tus redes sociales].
+- 😄 Pronombres: [tus pronombres, si deseas compartirlos].
+- ⚡ Dato curioso: [un dato curioso sobre ti o tus intereses].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
+- [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
+
+## Estadísticas de GitHub
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nombredeusuario&show_icons=true&theme=radical)](enlace a tu perfil de GitHub)
+
+## Lenguajes y herramientas
+![Lenguajes y herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=nombredeusuario&layout=compact&theme=radical)
+
+## Conecta conmigo
+¡No dudes en conectarte conmigo a través de mis redes sociales!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu_usuario-blue)](enlace a tu perfil de LinkedIn)
+[![Twitter](https://img.shields.io/badge/Twitter-tu_usuario-blue)](enlace a tu perfil de Twitter)
+[![Sitio web](https://img.shields.io/badge/Sitio%20web-tusitio.com-blue)](enlace a tu sitio web)
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
