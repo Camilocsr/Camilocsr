@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [tu nombre], un apasionado por [tus intereses]. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
+¡Bienvenido a mi perfil de GitHub! Soy Juan Camilo Solano Rodriguez, próximo ingeniero, soy un apasionado por el desarrollo de sofware. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
 
 ## Acerca de mí
 - 🔭 Actualmente estoy trabajando en [proyecto o área específica].
