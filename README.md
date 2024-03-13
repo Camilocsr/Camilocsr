@@ -16,7 +16,7 @@
 - [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nombredeusuario&show_icons=true&theme=radical)](enlace a tu perfil de GitHub)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nombredeusuario&show_icons=true&theme=radical)]
 
 ## Lenguajes y herramientas
 ![Lenguajes y herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=nombredeusuario&layout=compact&theme=radical)
