@@ -35,6 +35,7 @@ Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tu_usuario-blue)](enlace a tu perfil de LinkedIn)
 [![Twitter](https://img.shields.io/badge/Twitter-tu_usuario-blue)](enlace a tu perfil de Twitter)
+[![Instagram](https://img.shields.io/badge/Instagram-camilosolanoro-purple)](https://www.instagram.com/camilosolanoro)
 [![Sitio web](https://img.shields.io/badge/Sitio%20web-tusitio.com-blue)](enlace a tu sitio web)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
