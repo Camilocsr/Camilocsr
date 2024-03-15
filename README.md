@@ -34,7 +34,7 @@ Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
 ¡No dudes en conectarte conmigo a través de mis redes sociales!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tu_usuario-blue)](enlace a tu perfil de LinkedIn)
-[![Twitter](https://img.shields.io/badge/Facebook-tu_usuario-blue)](https://www.facebook.com/profile.php/?id=100023768829242)
+[![Twitter](https://img.shields.io/badge/Facebook-camilosolanorodriguez-blue)](https://www.facebook.com/profile.php/?id=100023768829242)
 [![Instagram](https://img.shields.io/badge/Instagram-camilosolanoro-purple)](https://www.instagram.com/camilosolanoro)
 [![Sitio web](https://img.shields.io/badge/Sitio%20web-tusitio.com-blue)](enlace a tu sitio web)
 
