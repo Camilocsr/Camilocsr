@@ -18,6 +18,9 @@
 ## Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical)]
 
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical)](https://github.com/Camilocsr)
+
+
 ## Lenguajes y herramientas
 ![Lenguajes y herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical)
 
