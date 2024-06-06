@@ -3,16 +3,15 @@
 ¡Bienvenido a mi perfil de GitHub! Soy Juan Camilo Solano Rodriguez, próximo ingeniero, soy un apasionado por el desarrollo de sofware. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
 
 ## Acerca de mí
-- 🔭 Actualmente estoy trabajando en [proyecto o área específica].
-- 🌱 Actualmente estoy aprendiendo [tecnología o tema específico].
-- 👯 Estoy buscando colaborar en [proyectos o iniciativas].
-- 💬 Pregúntame sobre [áreas de experiencia o temas que te interesen].
-- 📫 Puedes contactarme en [tu correo electrónico o enlace a tus redes sociales].
-- 😄 Pronombres: [tus pronombres, si deseas compartirlos].
-- ⚡ Dato curioso: [un dato curioso sobre ti o tus intereses].
+- 🔭 Actualmente estoy trabajando en Proyectos de Realidad aumentada y inteligencia artificial.
+- 🌱 Actualmente estoy aprendiendo machin learning.
+- 👯 Estoy buscando colaborar en cosas nuevas y emocionantes.
+- 💬 Pregúntame sobre back, front y VR.
+- 📫 Puedes contactarme en Correo: esmunred@gmail.com whatsapp:+57 313 6368 783.
+- ⚡ Te regalo un dato curioso siempre es bueno aprender algo nuevo: Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética.
 
 ## Proyectos destacados
-- [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
+- ([Proyecto MERN](https://github.com/Camilocsr/Proyecto_mern.git)): Este proyecto a pesar de no ser mi proyecto o trabajo mas grande es el que mas me gusta porque fue mi primer desafio en este mundo de la programacion y el desarrollo y cocidero que quedo muy bonito tanto el front como el back para el conocimineto que tenia en ese momento, me siento orgulloso de el.
 - [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
