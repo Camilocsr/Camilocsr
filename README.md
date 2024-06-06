@@ -10,9 +10,8 @@
 - 📫 Puedes contactarme en Correo: esmunred@gmail.com whatsapp:+57 313 6368 783.
 - ⚡ Te regalo un dato curioso siempre es bueno aprender algo nuevo: Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética.
 
-## Proyectos destacados
+## Proyectos que me enorgullecen
 - ([Proyecto MERN](https://github.com/Camilocsr/Proyecto_mern.git)): Este proyecto a pesar de no ser mi proyecto o trabajo mas grande es el que mas me gusta porque fue mi primer desafio en este mundo de la programacion y el desarrollo y cocidero que quedo muy bonito tanto el front como el back para el conocimineto que tenia en ese momento, me siento orgulloso de el.
-- [Nombre del proyecto](enlace al repositorio): Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical)]
