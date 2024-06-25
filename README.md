@@ -32,14 +32,18 @@
 |------------------------|--------------------------|
 | <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical" alt="Lenguajes y Herramientas" /></div> |
 
-Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
+### Lenguajes y Tecnologías Con las que He Trabajado
 
-- JavaScript
-- Node.js
-- .NET
-- C#
-- Python
-- React
+| Lenguajes   | Frameworks/Librerías | Plataformas/Motores | Bases de Datos | Cloud                              |
+|-------------|----------------------|---------------------|----------------|------------------------------------|
+| JavaScript  | Node.js, React       |                     |                | AWS (Lambda, EC2, S3, Polly, Transcribe)|
+| Java        |                      |                     |                |                                    |
+| TypeScript  |  Nest                | Unity               |                |                                    |
+| C#          | .NET                 |                     | MySQL          |                                    |
+| Python      |                      |                     | MongoDB        |                                    |
+| JavaScript  |                      |                     | DynamoDB       |                                    |
+
+
 
 ## Conéctate conmigo
 ¡No dudes en contactarme a través de mis redes sociales!
