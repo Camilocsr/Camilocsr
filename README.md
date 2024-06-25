@@ -26,6 +26,8 @@ Si estás buscando una solución robusta y adaptable para tu negocio hotelero, e
 ## Lenguajes y Herramientas
 ![Lenguajes y Herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Camilocsr&theme=radical)](https://github.com/Camilocsr/github-profile-trophy)
+
 Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
 
 - JavaScript
