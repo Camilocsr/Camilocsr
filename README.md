@@ -11,14 +11,9 @@
 - ⚡ Un dato curioso: ¿Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética?
 
 ## Proyectos Destacados
-- [Proyecto MERN](https://github.com/Camilocsr/Proyecto_mern.git): Me complace presentar un proyecto MERN diseñado específicamente para la industria de la moda, ofreciendo una plataforma integral para la venta de ropa en línea.
-Aunque este proyecto no sea el más extenso en mi cartera, representa un hito significativo en mi carrera como desarrollador. Fue mi primera incursión en el mundo del desarrollo de aplicaciones web, y estoy encantado con el resultado obtenido tanto en el frontend como en el backend.
-Este proyecto no solo demuestra mi capacidad para enfrentar desafíos técnicos, sino también mi compromiso con la excelencia en cada etapa del proceso de desarrollo. Si buscas una solución confiable y eficiente para lanzar tu tienda de moda en línea, este proyecto podría ser la clave para tu éxito.
-¡No dudes en contactarme para obtener más información sobre cómo esta plataforma puede impulsar tu negocio de moda en línea hacia nuevas alturas!
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical)](https://github.com/Camilocsr/Proyecto_mern)
 
-- [Sistema de Hotel](https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql.git): Me complace presentar un proyecto en Java que representa un completo sistema de gestión hotelera. Desde el control de empleados hasta la administración de inventario y ventas, esta aplicación proporciona una solución integral para los desafíos diarios de la industria hotelera.
-Desarrollado en el año 2021, este proyecto es el resultado de mi iniciativa personal y dedicación. Me enorgullece haber contribuido con esta herramienta que combina eficiencia y funcionalidad para optimizar las operaciones hoteleras.
-Si estás buscando una solución robusta y adaptable para tu negocio hotelero, este proyecto podría ser la respuesta que estás buscando. ¡Contáctame para obtener más información y descubrir cómo este sistema puede impulsar el éxito de tu hotel!
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical)](https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql)
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
