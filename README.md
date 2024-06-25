@@ -11,9 +11,20 @@
 - ⚡ Un dato curioso: ¿Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética?
 
 ## Proyectos Destacados
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical)](https://github.com/Camilocsr/Proyecto_mern)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical)](https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql)
+<div align="center">
+  <a href="https://github.com/Camilocsr/Proyecto_mern">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical" alt="Proyecto destacado" />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <a href="https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical" alt="Proyecto destacado" />
+  </a>
+</div>
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
