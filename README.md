@@ -14,7 +14,10 @@
 - ⚡ Un dato curioso: ¿Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética?
 
 
-## Proyectos Destacados
+## Proyectos Mas Valiosos
+
+> [!TIP]
+> Estos son mis proyectos mas valiosos por que fueron los primeros proyectos a mediana escala y con los cuales aprendi mucho
 
 | Ecomerce | Automatizacion hotelera |
 |------------|------------|
