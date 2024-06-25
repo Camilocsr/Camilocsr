@@ -20,11 +20,15 @@ Este proyecto no solo demuestra mi capacidad para enfrentar desafíos técnicos,
 Desarrollado en el año 2021, este proyecto es el resultado de mi iniciativa personal y dedicación. Me enorgullece haber contribuido con esta herramienta que combina eficiencia y funcionalidad para optimizar las operaciones hoteleras.
 Si estás buscando una solución robusta y adaptable para tu negocio hotelero, este proyecto podría ser la respuesta que estás buscando. ¡Contáctame para obtener más información y descubrir cómo este sistema puede impulsar el éxito de tu hotel!
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical)
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</div>
 
-## Lenguajes y Herramientas
-![Lenguajes y Herramientas](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical)
+## 🛠️ Lenguajes y Herramientas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical" alt="Lenguajes y Herramientas" />
+</div>
 
 ## 🏆 Trofeos
 <div align="center">
