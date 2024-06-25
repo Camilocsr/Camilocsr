@@ -1,5 +1,3 @@
-<div style="background-image: url('images/Backgraund2024-06-25153215.png'); background-size: cover; padding: 20px;">
-
 # ¡Saludos! 👋
 
 ¡Te doy la bienvenida a mi perfil de GitHub! Soy Juan Camilo Solano Rodríguez, próximo ingeniero, y me apasiona el desarrollo de software. Aquí podrás encontrar algunos de mis proyectos y contribuciones a la comunidad de código abierto.
@@ -38,12 +36,12 @@
 
 | Lenguajes   | Frameworks/Librerías | Plataformas/Motores | Bases de Datos | Cloud                              |
 |-------------|----------------------|---------------------|----------------|------------------------------------|
-| JavaScript  | Node.js, React       |                     |                | AWS (Lambda, EC2, S3, Polly, Transcribe)|
-| Java        |                      |                     |                |                                    |
-| TypeScript  |  Nest                | Unity               |                |                                    |
-| C#          | .NET                 |                     | MySQL          |                                    |
-| Python      |                      |                     | MongoDB        |                                    |
-| JavaScript  |                      |                     | DynamoDB       |                                    |
+| JavaScript  | Node.js        |  Unity              |  MySQL         | AWS (Lambda, EC2, S3, Polly, Transcribe)|
+| Java        | Nest           |                    |  MongoDB       |                                    |
+| TypeScript  | .NET           |                     |  DynamoDB      |                                    |
+| C#          | React          |                     |                |                                    |
+| Python      |                |                     |                |                                    |
+| JavaScript  |                |                     |                |                                    |
 
 
 
@@ -56,5 +54,3 @@
 [![Sitio web](https://img.shields.io/badge/portafolio.com-red)](https://camilocsr.github.io/portafolio/index.html#portafolio)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
-
-</div>
