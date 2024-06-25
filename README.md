@@ -10,38 +10,19 @@
 - 📫 Puedes contactarme a través de correo electrónico: esmunred@gmail.com o WhatsApp: +57 313 6368 783.
 - ⚡ Un dato curioso: ¿Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética?
 
+
 ## Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/Camilocsr/Proyecto_mern">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical" alt="Proyecto destacado" />
-  </a>
-</div>
+| Ecomerce | Automatizacion hotelera |
+|------------|------------|
+| <a href="https://github.com/Camilocsr/Proyecto_mern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical" alt="Proyecto MERN" /></a> | <a href="https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical" alt="Proyecto Java y MySQL" /></a> |
 
-<hr>
 
-<div align="center">
-  <a href="https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical" alt="Proyecto destacado" />
-  </a>
-</div>
+## 📊 Estadísticas de GitHub | 🛠️ Lenguajes y Herramientas | 🏆 Trofeos
 
-## 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</div>
-
-## 🛠️ Lenguajes y Herramientas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical" alt="Lenguajes y Herramientas" />
-</div>
-
-## 🏆 Trofeos
-<div align="center">
-  <a href="https://github.com/Camilocsr/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Camilocsr&theme=radical" alt="Trofeos de GitHub" />
-  </a>
-</div>
+| Estadísticas de GitHub | Lenguajes y Herramientas | Trofeos |
+|------------------------|--------------------------|---------|
+| <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical" alt="Lenguajes y Herramientas" /></div> | <div align="center"><a href="https://github.com/Camilocsr/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Camilocsr&theme=radical" alt="Trofeos de GitHub" /></a></div> |
 
 Aquí hay algunos de los lenguajes y tecnologías con los que trabajo:
 
