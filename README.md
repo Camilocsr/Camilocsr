@@ -3,7 +3,6 @@
 ¡Te doy la bienvenida a mi perfil de GitHub! Soy Juan Camilo Solano Rodríguez, próximo ingeniero, y me apasiona el desarrollo de software. Aquí podrás encontrar algunos de mis proyectos y contribuciones a la comunidad de código abierto.
 
 > [!Note]
-> Estoy abierto a colaboraciones futuras.
 > Siempre me entusiasma colaborar en nuevos proyectos o debatir ideas innovadoras. ¡No dudes en contactarme!
 
 ## Acerca de mí
