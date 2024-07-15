@@ -4,6 +4,7 @@
 
 > [!Note]
 > Estoy abierto a colaboraciones futuras.
+> Siempre me entusiasma colaborar en nuevos proyectos o debatir ideas innovadoras. ¡No dudes en contactarme!
 
 ## Acerca de mí
 - 🔭 Actualmente me encuentro trabajando en Proyectos de Realidad Aumentada e Inteligencia Artificial.
@@ -13,7 +14,8 @@
 - 📫 Puedes contactarme a través de correo electrónico: esmunred@gmail.com o WhatsApp: +57 313 6368 783.
 
 > [!TIP]
-> - ⚡ Un dato curioso: ¿Sabías que el código original del juego clásico "Tetris" fue escrito en la Unión Soviética?
+> - ⚡ Trabajo actual.
+> - 
 
 
 ## Proyectos Mas Valiosos
