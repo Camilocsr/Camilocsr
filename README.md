@@ -1,57 +1,60 @@
-# ¡Saludos! 👋
+# 👋 Juan Camilo Solano Rodríguez
 
-¡Te doy la bienvenida a mi perfil de GitHub! Soy Juan Camilo Solano Rodríguez, próximo ingeniero, y me apasiona el desarrollo de software. Aquí podrás encontrar algunos de mis proyectos y contribuciones a la comunidad de código abierto.
+**Ingeniero de Software (22 años)** · Full‑Stack · Cloud AWS · DevOps
 
-> [!Note]
-> Siempre me entusiasma colaborar en nuevos proyectos o debatir ideas innovadoras. ¡No dudes en contactarme!
+Desarrollador de software con experiencia en **frontend, backend y cloud computing**, enfocado en crear soluciones escalables y bien estructuradas. Actualmente me desempeño como **Developer en una universidad/instituto**, participando en proyectos académicos y tecnológicos.
 
-## Acerca de mí
-- 🔭 Actualmente me encuentro trabajando en Proyectos de Realidad Aumentada e Inteligencia Artificial.
-- 🌱 Estoy en constante aprendizaje, particularmente en el área de Machine Learning.
-- 👯 Busco colaborar en proyectos nuevos y emocionantes.
-- 💬 Si tienes preguntas sobre desarrollo de backend, frontend o Realidad Virtual, ¡no dudes en consultarme!
-- 📫 Puedes contactarme a través de correo electrónico: esmunred@gmail.com o WhatsApp: +57 313 6368 783.
+---
 
-> [!TIP]
-> - ⚡ Trabajo actual.
-> - 
+## 🚀 Stack principal
 
+* **Backend:** Node.js, NestJS, .NET
+* **Frontend:** React
+* **Lenguajes:** JavaScript, TypeScript, Java, C#, Python, Go
+* **Bases de datos:** MySQL, MongoDB, DynamoDB
+* **Cloud (AWS):** EC2, Lambda, S3, Polly, Transcribe, Application Load Balancer (ALB), IAM
+* **DevOps & Cloud:**
+  Linux (administración de servidores), Nginx (reverse proxy y balanceo básico),
+  Docker (contenedorización de aplicaciones), CI/CD (GitHub Actions),
+  AWS: EC2, IAM (usuarios, roles y políticas), ALB, CloudWatch (logs y monitoreo),
+  seguridad, despliegues y configuración por ambientes.
+* **Videojuegos:** Unity
 
-## Proyectos Mas Valiosos
+---
 
-> [!Note]
-> Estos son mis proyectos mas valiosos por que fueron los primeros proyectos a mediana escala y con los cuales aprendi mucho
+## 🧠 Intereses
 
-| Ecomerce | Automatizacion hotelera |
-|------------|------------|
-| <a href="https://github.com/Camilocsr/Proyecto_mern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical" alt="Proyecto MERN" /></a> | <a href="https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical" alt="Proyecto Java y MySQL" /></a> |
+* Desarrollo web moderno (Full‑Stack)
+* Arquitecturas en la nube (AWS)
+* DevOps y automatización de despliegues
+* Desarrollo de videojuegos con Unity
 
+---
 
-## 📊 Estadísticas de GitHub | 🛠️ Lenguajes y Herramientas
+## ⭐ Proyectos destacados
 
-| Estadísticas de GitHub | Lenguajes y Herramientas |
-|------------------------|--------------------------|
-| <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /></div> | <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocsr&layout=compact&theme=radical" alt="Lenguajes y Herramientas" /></div> |
+> Proyectos que marcaron mi aprendizaje en desarrollos de mediana escala
 
-### Lenguajes y Tecnologías Con las que He Trabajado
+| E‑commerce (MERN)                                                                                                                                                          | Sistema hotelero (Java + MySQL)                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Camilocsr/Proyecto_mern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=radical" /></a> | <a href="https://github.com/Camilocsr/Sistema_de_hotel_Java_y_Mysql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Sistema_de_hotel_Java_y_Mysql&theme=radical" /></a> |
 
-| Lenguajes   | Frameworks/Librerías | Plataformas/Motores | Bases de Datos | Cloud                              |
-|-------------|----------------------|---------------------|----------------|------------------------------------|
-| JavaScript  | Node.js        |  Unity              |  MySQL         | AWS (Lambda, EC2, S3, Polly, Transcribe)|
-| Java        | Nest           |                    |  MongoDB       |                                    |
-| TypeScript  | .NET           |                     |  DynamoDB      |                                    |
-| C#          | React          |                     |                |                                    |
-| Python      |                |                     |                |                                    |
-| JavaScript  |                |                     |                |                                    |
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Camilocsr&show_icons=true&theme=radical" />
+</div>
 
-## Conéctate conmigo
-¡No dudes en contactarme a través de mis redes sociales!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu_usuario-blue)](enlace a tu perfil de LinkedIn)
-[![Twitter](https://img.shields.io/badge/Facebook-camilosolanorodriguez-blue)](https://www.facebook.com/profile.php/?id=100023768829242)
-[![Instagram](https://img.shields.io/badge/Instagram-camilosolanoro-purple)](https://www.instagram.com/camilosolanoro)
-[![Sitio web](https://img.shields.io/badge/portafolio.com-red)](https://camilocsr.github.io/portafolio/index.html#portafolio)
+## 📫 Contacto
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
+* 📧 **Email:** [contacto@camilosolanorodriguez.com](mailto:contacto@camilosolanorodriguez.com)
+* 🌐 **Portafolio:** [https://camilosolanorodriguez.com](https://camilosolanorodriguez.com)
+* 📸 **Instagram:** [https://www.instagram.com/camilosolanoro](https://www.instagram.com/camilosolanoro)
+
+---
+
+💡 *Siempre abierto a nuevos retos, colaboraciones y oportunidades de crecimiento profesional en desarrollo de software y cloud computing.*
