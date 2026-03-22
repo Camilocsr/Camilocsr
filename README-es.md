@@ -43,6 +43,35 @@ Basado en Bogotá, Colombia. Trabajo con startups y empresas construyendo sistem
 
 ---
 
+## 🛠️ Stack Tecnológico
+
+**Lenguajes & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,java,cs,nodejs,react,nextjs,nestjs,express,dotnet&perline=12" alt="Languages and Frameworks: TypeScript, JavaScript, Python, Go, Java, C#, Node.js, React, Next.js, NestJS, Express, .NET" />
+
+**Cloud, DevOps & Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,postgres,mongodb,mysql,redis,git,github,githubactions,vercel&perline=12" alt="Cloud, DevOps & Databases: AWS, Docker, Linux, Nginx, PostgreSQL, MongoDB, MySQL, Redis, Git, GitHub Actions, Vercel" />
+
+**Herramientas & Integraciones**
+
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=flat-square)
+![Temporal.io](https://img.shields.io/badge/Temporal.io-000000?style=flat-square)
+![Telnyx](https://img.shields.io/badge/Telnyx-00C48C?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
+![Meta API](https://img.shields.io/badge/Meta%20API-0866FF?style=flat-square&logo=meta&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square)
+![Coqui TTS](https://img.shields.io/badge/Coqui%20TTS-FFCC00?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![MercadoPago](https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square)
+
+---
+
 ## 🔨 Qué construyo
 
 ### 🏗️ Ingeniería Backend & Arquitectura Cloud
@@ -94,35 +123,6 @@ Basado en Bogotá, Colombia. Trabajo con startups y empresas construyendo sistem
 ### 🎮 Desarrollo de Videojuegos & Sistemas Interactivos
 
 Construí aplicaciones Unity 3D para experiencias educativas de VR/AR — incluyendo sistemas de avatares interactivos y aplicaciones de aprendizaje de idiomas con bucles de retroalimentación de IA en tiempo real. Desplegado en Android y WebGL.
-
----
-
-## 🛠️ Stack Tecnológico
-
-**Lenguajes & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,go,java,cs,nodejs,react,nextjs,nestjs,express,dotnet&perline=12" alt="Languages and Frameworks: TypeScript, JavaScript, Python, Go, Java, C#, Node.js, React, Next.js, NestJS, Express, .NET" />
-
-**Cloud, DevOps & Bases de Datos**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,postgres,mongodb,mysql,redis,git,github,githubactions,vercel&perline=12" alt="Cloud, DevOps & Databases: AWS, Docker, Linux, Nginx, PostgreSQL, MongoDB, MySQL, Redis, Git, GitHub Actions, Vercel" />
-
-**Herramientas & Integraciones**
-
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=flat-square)
-![Temporal.io](https://img.shields.io/badge/Temporal.io-000000?style=flat-square)
-![Telnyx](https://img.shields.io/badge/Telnyx-00C48C?style=flat-square)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
-![Meta API](https://img.shields.io/badge/Meta%20API-0866FF?style=flat-square&logo=meta&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square)
-![Coqui TTS](https://img.shields.io/badge/Coqui%20TTS-FFCC00?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
-![MercadoPago](https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square)
 
 ---
 
