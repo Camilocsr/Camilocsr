@@ -39,7 +39,7 @@ I architect production-grade backends, integrate AI and third-party services int
 
 ## 👤 About
 
-Based in Bogotá, Colombia. Currently working at [Universitaria de Colombia](https://universitariadecolombia.edu.co/) among other projects. I work with startups and companies building backend systems, integrating AI, and shipping production software. Open to international freelance projects and consulting.
+From Bogotá, Colombia. Currently working at [Universitaria de Colombia](https://universitariadecolombia.edu.co/) among other projects. I work with startups and companies building backend systems, integrating AI, and shipping production software. Open to international freelance projects and consulting.
 
 ---
 

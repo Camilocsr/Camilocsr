@@ -39,7 +39,7 @@ Diseño backends de nivel productivo, integro IA y servicios de terceros en prod
 
 ## 👤 Sobre mí
 
-Basado en Bogotá, Colombia. Actualmente trabajo en [Universitaria de Colombia](https://universitariadecolombia.edu.co/) entre otros proyectos. Trabajo con startups y empresas construyendo sistemas backend, integrando IA y desplegando software en producción. Disponible para proyectos freelance internacionales y consultoría.
+Desde Bogotá, Colombia. Actualmente trabajo en [Universitaria de Colombia](https://universitariadecolombia.edu.co/) entre otros proyectos. Trabajo con startups y empresas construyendo sistemas backend, integrando IA y desplegando software en producción. Disponible para proyectos freelance internacionales y consultoría.
 
 ---
 
