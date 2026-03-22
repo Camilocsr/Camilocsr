@@ -143,30 +143,22 @@ Construí aplicaciones Unity 3D para experiencias educativas de VR/AR — incluy
 <div align="center">
 
 <a href="https://github.com/Camilocsr/storely">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=storely&theme=transparent&hide_border=true" alt="storely — Backend SaaS de e-commerce multi-tenant con facturación por suscripción" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=storely&theme=transparent&hide_border=true" alt="Tarjeta de repositorio GitHub" />
 </a>
 
 <a href="https://github.com/Camilocsr/Proyecto_mern">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=transparent&hide_border=true" alt="Proyecto_mern — Plataforma de e-commerce full-stack MERN" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=transparent&hide_border=true" alt="Tarjeta de repositorio GitHub" />
 </a>
 
-<a href="https://github.com/Camilocsr/whtsappUniversitaria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=whtsappUniversitaria&theme=transparent&hide_border=true" alt="whtsappUniversitaria — Bot de IA para WhatsApp con Meta Business API" />
+<a href="https://github.com/Camilocsr/CareerVerse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=CareerVerse&theme=transparent&hide_border=true" alt="Tarjeta de repositorio GitHub" />
 </a>
 
 <a href="https://github.com/Camilocsr/UnityAppIdiomas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=UnityAppIdiomas&theme=transparent&hide_border=true" alt="UnityAppIdiomas — App de aprendizaje de idiomas Unity 3D con avatar de IA" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=UnityAppIdiomas&theme=transparent&hide_border=true" alt="Tarjeta de repositorio GitHub" />
 </a>
 
 </div>
-
-**storely** — Backend SaaS de e-commerce multi-tenant con facturación por suscripción, aislamiento de tenants e infraestructura AWS.
-
-**Proyecto_mern** — Plataforma de e-commerce full-stack MERN con catálogo de productos, carrito y gestión de pedidos.
-
-**whtsappUniversitaria** — Bot de IA para WhatsApp construido sobre Meta Business API con flujos conversacionales impulsados por NLP.
-
-**UnityAppIdiomas** — App de aprendizaje de idiomas Unity 3D con avatar de IA interactivo y retroalimentación en tiempo real.
 
 ---
 

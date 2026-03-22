@@ -143,30 +143,22 @@ Built Unity 3D applications for VR/AR educational experiences — including inte
 <div align="center">
 
 <a href="https://github.com/Camilocsr/storely">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=storely&theme=transparent&hide_border=true" alt="storely — Multi-tenant SaaS e-commerce backend with subscription billing" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=storely&theme=transparent&hide_border=true" alt="GitHub repository card" />
 </a>
 
 <a href="https://github.com/Camilocsr/Proyecto_mern">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=transparent&hide_border=true" alt="Proyecto_mern — Full-stack MERN e-commerce platform" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=Proyecto_mern&theme=transparent&hide_border=true" alt="GitHub repository card" />
 </a>
 
-<a href="https://github.com/Camilocsr/whtsappUniversitaria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=whtsappUniversitaria&theme=transparent&hide_border=true" alt="whtsappUniversitaria — WhatsApp AI bot with Meta Business API" />
+<a href="https://github.com/Camilocsr/CareerVerse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=CareerVerse&theme=transparent&hide_border=true" alt="GitHub repository card" />
 </a>
 
 <a href="https://github.com/Camilocsr/UnityAppIdiomas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=UnityAppIdiomas&theme=transparent&hide_border=true" alt="UnityAppIdiomas — Unity 3D language learning app with AI avatar" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Camilocsr&repo=UnityAppIdiomas&theme=transparent&hide_border=true" alt="GitHub repository card" />
 </a>
 
 </div>
-
-**storely** — Multi-tenant SaaS e-commerce backend with subscription billing, tenant isolation, and AWS infrastructure.
-
-**Proyecto_mern** — Full-stack MERN e-commerce platform with product catalog, cart, and order management.
-
-**whtsappUniversitaria** — WhatsApp AI bot built on Meta Business API with NLP-powered conversational flows.
-
-**UnityAppIdiomas** — Unity 3D language learning app with interactive AI avatar and real-time feedback.
 
 ---
 
