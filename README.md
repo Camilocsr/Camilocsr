@@ -169,7 +169,7 @@ Open to freelance projects, technical consulting, and long-term partnerships.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-camilosolanorodriguez.com-6366F1?style=for-the-badge&logo=safari&logoColor=white)](http://camilosolanorodriguez.com)
-[![Email](https://img.shields.io/badge/Email-contacto%40camilosolanorodriguez.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@camilosolanorodriguez.com)
+[![Email](https://img.shields.io/badge/Email-esmunred%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmunred@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-camilosolanoro-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilosolanoro)
 
 </div>

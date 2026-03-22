@@ -171,7 +171,7 @@ Disponible para proyectos freelance, consultoría y alianzas técnicas.
 <div align="center">
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-camilosolanorodriguez.com-6366F1?style=for-the-badge&logo=safari&logoColor=white)](http://camilosolanorodriguez.com)
-[![Correo](https://img.shields.io/badge/Correo-contacto%40camilosolanorodriguez.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@camilosolanorodriguez.com)
+[![Correo](https://img.shields.io/badge/Correo-esmunred%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmunred@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-camilosolanoro-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilosolanoro)
 
 </div>
